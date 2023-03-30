@@ -1,0 +1,23 @@
+{
+  "name": "mgacp",
+  "version": "1.0.0",
+  "description": "一条命令执行git添加、提交、推送，提高开发效率。my git add、commit、push.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/houpengxu/mgacp.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/houpengxu/mgacp/issues"
+  },
+  "homepage": "https://github.com/houpengxu/mgacp#readme",
+  "bin": {
+    "mgacp": "src/index.js"
+  }
+}
